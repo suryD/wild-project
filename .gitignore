@@ -1,0 +1,3 @@
+# Ignore a file with the specified name.
+# Scoped to the 'secret_file.html' subfolder.
+secret_file.html
